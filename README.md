@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Ryan Stagg
 
 <div align="center">
-  <img src="https://redbaydigital.com.au/Asset%202.svg" alt="Redbay Digital Logo" width="100" />
+  <img src="https://www.redbay.digital/Asset%202.svg" alt="Redbay Digital Logo" width="100" />
   <h3>Founder & Lead Developer at Redbay Digital</h3>
 </div>
 
